@@ -3,8 +3,8 @@ This folder contains screenshots of the professional profiles I created as part 
 
 ## Platforms Included
 GitHub Profile
-
 LinkedIn Profile
+Kaggle Profile
 
 ## Description
 In this task, I created and updated my professional profiles to build a strong digital presence. These platforms will help me showcase my skills, projects, and academic progress over time.
