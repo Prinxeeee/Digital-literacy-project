@@ -3,7 +3,9 @@ This folder contains screenshots of the professional profiles I created as part 
 
 ## Platforms Included
 GitHub Profile
+
 LinkedIn Profile
+
 Kaggle Profile
 
 ## Description
