@@ -1,4 +1,4 @@
-# Task3
+# Task 3 – Coding & Collaboration Platforms
 
 This folder showcases evidence of my active engagement with coding and collaboration tools, highlighting both my technical development and my ability to create and share digital content effectively.
 
